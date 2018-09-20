@@ -1,0 +1,36 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.App-title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.Form-input {
+  margin:10px;
+}
+
+.Reminder-input {
+  font-size: 35px;
+  margin: 5px;
+}
+
+.Date-input {
+  font-size: 15px;
+  margin: 5px;
+}
+
+.List-input {
+  font-size: 25px;
+}
+
+.Delete-button {
+  float:right;
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
